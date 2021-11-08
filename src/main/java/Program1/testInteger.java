@@ -1,3 +1,7 @@
+package Program1;
+
+import Program1.Integer;
+
 public class testInteger {
     public static void main(String[] args){
         System.out.println(Integer.Square(0) == 0);

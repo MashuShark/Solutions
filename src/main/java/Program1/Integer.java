@@ -1,3 +1,5 @@
+package Program1;
+
 public class Integer {
 
     public static int Square(int num) {
