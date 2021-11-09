@@ -1,8 +1,7 @@
 package Program1;
-
 import Program1.Integer;
 
-public class testInteger {
+class testInteger {
     public static void main(String[] args){
         System.out.println(Integer.Square(0) == 0);
         System.out.println(Integer.Square(1) == 1);
@@ -24,11 +23,5 @@ public class testInteger {
         System.out.println("**********");
         System.out.println("**********");
     }
-
-
-
-
-
-
 
 }
