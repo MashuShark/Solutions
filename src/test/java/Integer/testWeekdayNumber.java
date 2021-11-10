@@ -5,5 +5,6 @@ public class testWeekdayNumber {
         System.out.println(weekdayNumber.toWeekdayNumber(213));
         System.out.println(weekdayNumber.toWeekdayNumber(1));
         System.out.println(weekdayNumber.toWeekdayNumber(7));
+
     }
 }
