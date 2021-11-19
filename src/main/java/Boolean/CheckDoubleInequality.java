@@ -1,6 +1,6 @@
 package Boolean;
 
-public class checkDoubleInequality {
+public class CheckDoubleInequality {
     /**
      * Given three integers: A, B, C. Check double inequality A <B <C
      */

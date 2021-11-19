@@ -1,10 +1,10 @@
 package Boolean;
 
-public class numIsEven {
+public class NumIsOdd {
     /**
      * An integer is given. Check that the number is odd.
      */
-    public static boolean isEven (int num){
-        return num % 2 == 0;
+    public static boolean isOdd(int num){
+        return num % 2 != 0;
     }
 }

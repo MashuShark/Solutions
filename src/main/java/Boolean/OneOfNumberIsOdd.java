@@ -1,6 +1,6 @@
 package Boolean;
 
-public class oneOfNumberIsOdd {
+public class OneOfNumberIsOdd {
     /**
      * Two integers: A, B are given. Exactly one of the numbers A and B is odd
      */

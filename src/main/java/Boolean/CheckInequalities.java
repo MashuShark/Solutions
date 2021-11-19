@@ -1,6 +1,6 @@
 package Boolean;
 
-public class checkInequalities {
+public class CheckInequalities {
     /**
      * Two integers are given. Check inequalities A> 2 and B ≤ 3.
      */

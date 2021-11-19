@@ -1,6 +1,6 @@
 package Boolean;
 
-public class numIsPositive {
+public class NumIsPositive {
     /**
     * An integer A is given. Check that the number A is positive.
     */
