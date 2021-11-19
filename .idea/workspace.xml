@@ -5,20 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e9542c6-dc93-45eb-be21-367b276d70f0" name="Changes" comment="Add a new block &quot;Boolean&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boolean/SameParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Boolean/SameParityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Boolean/TestSameParity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/atLeastOneOfNumbersISOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/AtLeastOneOfNumbersISOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/checkDoubleInequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/CheckDoubleInequality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/checkInequalities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/CheckInequalities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/numIsEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/NumIsEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/numIsOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/NumIsOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/numIsPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/NumIsPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Boolean/oneOfNumberIsOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boolean/OneOfNumberIsOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testAtLeastOneOfNumbersISOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testAtLeastOneOfNumbersISOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testCheckInequalities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testCheckInequalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Boolean/EvenTwoDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Boolean/ExactlyOneNumberPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/If/CountPositiveNegativeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Boolean/TestEvenTwoDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Boolean/TestExactlyOneNumberPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCountPositiveNegativeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testCheckDoubleInequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testCheckDoubleInequality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testNumIsPositive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Boolean/testOneOfNumberIsOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Boolean/testOneOfNumberIsOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/atLeastOneOfNumbersISOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/checkDoubleInequality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/checkInequalities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/numIsEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/numIsOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/numIsPositive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Boolean/oneOfNumberIsOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testAtLeastOneOfNumbersISOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testAtLeastOneOfNumbersISOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testCheckDoubleInequality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testCheckDoubleInequality.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testCheckInequalities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testCheckInequalities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testNumIsPositive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Boolean/testOneOfNumberIsOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Boolean/testOneOfNumberIsOdd.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +49,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="20SasLQApdaD5R68v0CVBMfX8kw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,7 +94,33 @@
       <recent name="Program1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testAtLeastOneOfNumbersISOdd">
+  <component name="RunManager" selected="Application.testCountPositiveNegativeNumbers">
+    <configuration name="TestEvenTwoDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boolean.TestEvenTwoDigit" />
+      <module name="Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExactlyOneNumberPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boolean.TestExactlyOneNumberPositive" />
+      <module name="Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSameParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean.TestSameParity" />
       <module name="Solutions" />
@@ -101,59 +147,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testCheckDoubleInequality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean.testCheckDoubleInequality" />
+    <configuration name="testCountPositiveNegativeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCountPositiveNegativeNumbers" />
       <module name="Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Boolean.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testCheckInequalities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean.testCheckInequalities" />
-      <module name="Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Boolean.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testOneOfNumberIsOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean.testOneOfNumberIsOdd" />
-      <module name="Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Boolean.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testCheckInequalities" />
-      <item itemvalue="Application.testCheckDoubleInequality" />
       <item itemvalue="Application.testAtLeastOneOfNumbersISOdd" />
-      <item itemvalue="Application.testOneOfNumberIsOdd" />
       <item itemvalue="Application.TestSameParity" />
+      <item itemvalue="Application.TestExactlyOneNumberPositive" />
+      <item itemvalue="Application.TestEvenTwoDigit" />
+      <item itemvalue="Application.testCountPositiveNegativeNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testCountPositiveNegativeNumbers" />
+        <item itemvalue="Application.TestEvenTwoDigit" />
+        <item itemvalue="Application.TestExactlyOneNumberPositive" />
         <item itemvalue="Application.testAtLeastOneOfNumbersISOdd" />
         <item itemvalue="Application.TestSameParity" />
-        <item itemvalue="Application.testOneOfNumberIsOdd" />
-        <item itemvalue="Application.testCheckDoubleInequality" />
-        <item itemvalue="Application.testCheckInequalities" />
       </list>
     </recent_temporary>
   </component>
@@ -253,5 +267,21 @@
     <MESSAGE value="Add new solutions" />
     <MESSAGE value="Add a new block &quot;Boolean&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="Add a new block &quot;Boolean&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Boolean/TestEvenTwoDigit.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/If/CountPositiveNegativeNumbers.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
